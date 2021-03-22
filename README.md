@@ -1,0 +1,2 @@
+# abode-spot
+Abode finder
